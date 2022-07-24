@@ -2,7 +2,7 @@
 
 This is a compilation of Jupyter notebooks that illustrate and implement various concepts in machine learning.
 The notebooks are written in Python and utilize the numpy, matplotlib, pandas, seaborn, and sklearn libraries.
-These were done as part of the Intro to Machine Learning and Data Mining (CS171) class at the University of California, Riverside
+These were done as part of the Intro to Machine Learning and Data Mining (CS171) class at the University of California, Riverside.
 
 `KNN Classifier.ipynb` introduces retrieving external data (Iris dataset from the UCI Machine Learning repository) and storing it into a numpy array.
 It performs basic analysis and implements a KNN classifier on the data. 

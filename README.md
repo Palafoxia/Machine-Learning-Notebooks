@@ -5,6 +5,7 @@ The notebooks are written in Python and utilize the numpy, matplotlib, pandas, s
 These were done as part of the Intro to Machine Learning and Data Mining (CS171) class at the University of California, Riverside.
 
 ## About the Notebooks
+
 `KNN Classifier.ipynb` introduces retrieving external data (Iris dataset from the UCI Machine Learning repository) and storing it into a numpy array.
 It performs basic analysis and implements a KNN classifier on the data. 
 
